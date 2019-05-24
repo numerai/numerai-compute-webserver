@@ -40,7 +40,7 @@ While #2 is a good option if you're comfortable with setting up and running a we
 
 ### DigitalOcean
 
-Setup a digitalocean droplet: https://cloud.digitalocean.com/droplets/new?i=4bf4cd&size=s-4vcpu-8gb&region=sgp1
+Setup a digitalocean droplet: https://cloud.digitalocean.com/droplets/new?i=4bf4cd&size=s-4vcpu-8gb&region=sfo1
 
 I recommend 8GB RAM to be safe, but you can go smaller if you know you don't need that much. Leave all the default choices, and scroll to the bottom and click `Create`.
 
